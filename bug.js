@@ -1,0 +1,1 @@
+The following code snippet demonstrates an uncommon Firebase error related to data retrieval and asynchronous operations.  The issue stems from attempting to access data from a Firebase query snapshot before the data has fully loaded. This often results in undefined or null values being returned.
